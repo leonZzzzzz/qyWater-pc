@@ -1,4 +1,4 @@
-# kingsure-admin
+# qywater-admin
 
 ## Project setup
 ```
